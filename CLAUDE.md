@@ -1,7 +1,7 @@
-# KL Expat Guide
+# Europe Festivals Guide
 
 ## Overview
-Single-file HTML website (`index.html`) — a curated guide to festivals, Christmas markets, and cultural events near Kaiserslautern, Germany. For expats, military families, and travelers in the Rhineland-Pfalz region.
+Single-file HTML website (`index.html`) — a curated guide to festivals, Christmas markets, and cultural events across Germany and nearby countries (public name: Europe Festivals Guide). For expats and travelers.
 
 ## Tech Stack
 - Single-file HTML with embedded CSS and JavaScript
@@ -34,7 +34,8 @@ Single-file HTML website (`index.html`) — a curated guide to festivals, Christ
 - **Stuttgart**: Frühlingsfest, Weindorf (50th anniversary), Cannstatter Volksfest, jazzopen, Kessel Festival, Sommerfestival der Kulturen, Lange Nacht der Museen, BOSS OPEN
 
 ## Repo
-- Remote: `https://github.com/djctwo/kl-expat-guide.git` (branch: main)
+- Remote: `https://github.com/djctwo/europe-festivals-guide.git` (branch: main)
+- Live site: https://djctwo.github.io/europe-festivals-guide/ (repo renamed from kl-expat-guide 2026-10-27; the old site address no longer works)
 - Deployment: GitHub Pages (static)
 
 ## Status
