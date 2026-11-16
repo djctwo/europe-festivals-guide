@@ -13,14 +13,16 @@ Single-page public guide (`index.html`) to festivals, carnivals, wine fests and 
 - Map pins are built in the browser from the cards (one pin per location, popup lists everything there), so there is no second list to keep in sync. Filters also filter the pins.
 - Favourites are stored in localStorage under `kl-expat-favorites` (old key kept so saved stars survive), keyed by event name.
 
-## Design ("Rhine Nights", shipped 2026-11-16)
+## Design ("Rhine Nights", shipped 2026-11-16; mobile polish same day)
 - Night-sky hero with a line-drawn Rhine castle + vineyard + half-timbered houses (SVG, draws in), five-country colour band, sticky filter bar (month chips Nov '26 → Dec '27 + All year; country chips; Saved).
 - Fonts: Fraunces (display), Bricolage Grotesque (body), Caveat (hand-written accents). Colours are oklch tokens on `:root`; country colours `--c-de/fr/be/nl/lu`.
 - Bands alternate paper / cream with scalloped edges; giant month numerals; cards have a country-colour top band, ink date chip, hard offset shadow. Christmas markets are a night section with falling snow.
 - Sister sites in the same family: SD × Baja guide (djctwo.github.io/sd-baja-guide).
 
 ## Tech
-- Static HTML, embedded CSS/JS, no framework. Leaflet 1.9.4 from unpkg with SRI hashes.
+- Static HTML, embedded CSS/JS, no framework. Leaflet 1.9.4 + leaflet.markercluster 1.5.3 + leaflet-gesture-handling 1.2.2, all from unpkg with SRI hashes (recompute if a version changes).
+- Map behaviour: nearby pins cluster (split at zoom 10); two fingers to pan on touch, ctrl/cmd + scroll to zoom on desktop. The map must be created with `maxZoom` before the cluster group attaches, or markercluster throws.
+- Mobile (≤820px): the sticky filter bar tucks away on scroll-down and returns on scroll-up (threshold measured from `.flagband`, because a sticky element's offsetTop moves). Save stars have 44px tap targets.
 - **Map tiles: OpenStreetMap** (`tile.openstreetmap.org`) darkened with a CSS filter. CARTO basemaps now need an API key, so don't go back to them. OSM blocks requests with no Referer: preview with `python3 -m http.server`, never `file://`.
 - Public-content rules: no home pin, no "home-base" wording, no military or personal references. Drive times "from KL" are fine.
 
