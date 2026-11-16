@@ -1,0 +1,644 @@
+{
+ "intro_note_html": null,
+ "categories": [
+  {
+   "title": "Germany — Major / Famous",
+   "markets": [
+    {
+     "name": "Nürnberger Christkindlesmarkt",
+     "country": "DE",
+     "lat": 49.4541,
+     "lng": 11.0775,
+     "start": "2026-11-27",
+     "dates_display": "Nov 27 – Dec 24",
+     "location": "Nuremberg",
+     "known": "Lebkuchen, Rostbratwurst, Zwetschgenmännle (prune figurines), iconic red-gold stalls",
+     "distance": "~3h from KL",
+     "link": "https://www.christkindlesmarkt.de"
+    },
+    {
+     "name": "Kölner Weihnachtsmarkt am Dom",
+     "country": "DE",
+     "lat": 50.9413,
+     "lng": 6.9583,
+     "start": "2026-11-21",
+     "dates_display": "Nov 16 – Dec 23",
+     "location": "Cologne",
+     "known": "Best cathedral backdrop in Europe; warm Kölsch beer; 7 themed markets across the city",
+     "distance": "~2h15 from KL",
+     "link": "https://www.koelnerweihnachtsmarkt.com"
+    },
+    {
+     "name": "Stuttgarter Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 48.7758,
+     "lng": 9.1829,
+     "start": "2026-11-25",
+     "dates_display": "Nov 25 – Dec 23",
+     "location": "Stuttgart",
+     "known": "Most ornate stall decorations in Germany; enormous scale; Maultaschen & Spätzle",
+     "distance": "~1h45 from KL",
+     "link": "https://www.stuttgarter-weihnachtsmarkt.de"
+    },
+    {
+     "name": "Dresdner Striezelmarkt",
+     "country": "DE",
+     "lat": 51.0487,
+     "lng": 13.7384,
+     "start": "2026-11-25",
+     "dates_display": "Nov 25 – Dec 24",
+     "location": "Dresden",
+     "known": "Oldest market in Germany (1434); Dresdner Stollen festival; Erzgebirge wooden crafts",
+     "distance": "~5.5h from KL",
+     "link": "https://striezelmarkt.dresden.de"
+    },
+    {
+     "name": "Münchner Christkindlmarkt",
+     "country": "DE",
+     "lat": 48.1374,
+     "lng": 11.5755,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Dec 24",
+     "location": "Munich",
+     "known": "Spectacular Marienplatz setting; Bavarian food & Glühwein; Kripperlmarkt (nativity market)",
+     "distance": "~3.5h from KL",
+     "link": "https://www.muenchen.de/en/events/munich-christkindlmarkt-info-about-christmas-market"
+    },
+    {
+     "name": "Frankfurter Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 50.1109,
+     "lng": 8.6821,
+     "start": "2026-11-23",
+     "dates_display": "Nov 23 – Dec 22",
+     "location": "Frankfurt",
+     "known": "Iconic Römerberg setting; Bethmännchen (marzipan cookies); massive 30m tree",
+     "distance": "~1.5h from KL",
+     "link": "https://www.frankfurt-tourismus.de/en/Discover-Experience/Events/Christmas-market"
+    },
+    {
+     "name": "Hamburger Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 53.5503,
+     "lng": 9.9928,
+     "start": "2026-11-20",
+     "dates_display": "~Nov 20 – Dec 23",
+     "location": "Hamburg",
+     "known": "Floating tree on Alster; Santa Pauli (adults-only); maritime-themed harbor markets",
+     "distance": "~5.5h from KL",
+     "link": "https://www.hamburg.de/weihnachtsmaerkte"
+    },
+    {
+     "name": "Heidelberger Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.4094,
+     "lng": 8.693,
+     "start": "2026-11-23",
+     "dates_display": "Nov 23 – Dec 22",
+     "location": "Heidelberg",
+     "known": "Romantic castle backdrop; 6 connected market plazas; ice rink; student-town energy",
+     "distance": "~1h from KL",
+     "link": "https://www.heidelberg-marketing.de/en/event/heidelberg-christmas-market"
+    },
+    {
+     "name": "Aachener Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 50.7753,
+     "lng": 6.0839,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Dec 23",
+     "location": "Aachen",
+     "known": "Aachener Printen (spiced cookies); UNESCO cathedral; living nativity scene",
+     "distance": "~2h45 from KL",
+     "link": "https://www.aachener-weihnachtsmarkt.de"
+    },
+    {
+     "name": "Reiterlesmarkt Rothenburg",
+     "country": "DE",
+     "lat": 49.3769,
+     "lng": 10.1789,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Dec 23",
+     "location": "Rothenburg ob der Tauber",
+     "known": "Most picturesque medieval setting; Schneeballen pastry; Käthe Wohlfahrt year-round shop",
+     "distance": "~2.5h from KL",
+     "link": "https://www.tourismus.rothenburg.de"
+    }
+   ]
+  },
+  {
+   "title": "Germany — Pfalz / RLP / Nearby",
+   "markets": [
+    {
+     "name": "Kaiserslauterer Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.4447,
+     "lng": 7.7689,
+     "start": "2026-11-23",
+     "dates_display": "Nov 16 – Dec 23",
+     "location": "Kaiserslautern",
+     "known": "Pfälzer Glühwein from local wineries; community atmosphere",
+     "distance": "LOCAL",
+     "link": "https://www.kaiserslautern.de"
+    },
+    {
+     "name": "Bad Dürkheimer Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.4617,
+     "lng": 8.1722,
+     "start": "2026-11-28",
+     "dates_display": "~Nov 28 – Dec 22",
+     "location": "Bad Dürkheim",
+     "known": "Exceptional Riesling Glühwein from local estates; spa-town charm; Wine Road gateway",
+     "distance": "~30min from KL",
+     "link": "https://www.bad-duerkheim.de"
+    },
+    {
+     "name": "Deidesheimer Advent",
+     "country": "DE",
+     "lat": 49.4119,
+     "lng": 8.1817,
+     "start": "2026-11-28",
+     "dates_display": "Advent weekends",
+     "location": "Deidesheim",
+     "known": "Finest Pfalz wine village; premium vintner Glühwein; gourmet regional food; intimate",
+     "distance": "~30min from KL",
+     "link": "https://deidesheim.de/weihnachtsmarkt"
+    },
+    {
+     "name": "Neustadter Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.3517,
+     "lng": 8.1389,
+     "start": "2026-11-25",
+     "dates_display": "~Nov 25 – Dec 22",
+     "location": "Neustadt an der Weinstraße",
+     "known": "Wine Road capital; excellent Pfälzer Glühwein; half-timbered setting",
+     "distance": "~35min from KL",
+     "link": "https://www.neustadt.eu"
+    },
+    {
+     "name": "Speyerer Weihnachts- & Neujahrsmarkt",
+     "country": "DE",
+     "lat": 49.3173,
+     "lng": 8.4311,
+     "start": "2026-11-25",
+     "dates_display": "Nov 23 – Jan 10",
+     "location": "Speyer",
+     "known": "Cathedral backdrop (UNESCO); runs to January 6; beautiful Maximilianstraße promenade",
+     "distance": "~45min from KL",
+     "link": "https://www.speyer.de"
+    },
+    {
+     "name": "Mannheimer Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.4875,
+     "lng": 8.466,
+     "start": "2026-11-23",
+     "dates_display": "~Nov 23 – Dec 23",
+     "location": "Mannheim",
+     "known": "Wasserturm backdrop; 200+ stalls across 3 areas; excellent food variety",
+     "distance": "~50min from KL",
+     "link": "https://www.weihnachtsmarkt-mannheim.de"
+    },
+    {
+     "name": "Mainzer Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.9987,
+     "lng": 8.2738,
+     "start": "2026-11-26",
+     "dates_display": "Nov 26 – Dec 23",
+     "location": "Mainz",
+     "known": "1,000-year-old cathedral; Rheinhessen wine Glühwein; high-quality crafts; less touristy",
+     "distance": "~1h from KL",
+     "link": "https://www.mainz.de/weihnachtsmarkt"
+    },
+    {
+     "name": "Trierer Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.7557,
+     "lng": 6.6414,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Dec 22",
+     "location": "Trier",
+     "known": "Roman-era backdrop (oldest city in Germany); Mosel wine Glühwein; Viez (apple wine)",
+     "distance": "~1.5h from KL",
+     "link": "https://www.trier-info.de/weihnachtsmarkt"
+    },
+    {
+     "name": "Koblenzer Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 50.3533,
+     "lng": 7.5943,
+     "start": "2026-11-20",
+     "dates_display": "~Nov 20 – Jan 4",
+     "location": "Koblenz",
+     "known": "Rhine-Moselle confluence; fortress backdrop; extends into January; cozy Altstadt plazas",
+     "distance": "~1h20 from KL",
+     "link": "https://www.koblenzer-weihnachtsmarkt.de"
+    },
+    {
+     "name": "Bernkastel-Kueser Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 49.9153,
+     "lng": 7.0756,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Dec 20",
+     "location": "Bernkastel-Kues",
+     "known": "Largest Advent calendar (half-timbered house); Mosel Riesling Glühwein; torchlight floats",
+     "distance": "~1.5h from KL",
+     "link": "https://en.bernkastel.de/christmas-market"
+    }
+   ]
+  },
+  {
+   "title": "Germany — Smaller Gems & Themed",
+   "markets": [
+    {
+     "name": "Ravennaschlucht (Ravenna Gorge)",
+     "country": "DE",
+     "lat": 47.9167,
+     "lng": 8.0833,
+     "start": "2026-11-27",
+     "dates_display": "Nov 26 – Dec 20 (Thu–Sun)",
+     "location": "Black Forest (near Freiburg)",
+     "known": "Most spectacular setting of any market in Europe; illuminated viaduct; Black Forest Kirschtorte",
+     "distance": "~2.5h from KL",
+     "link": "https://www.hochschwarzwald.de/en/christmas-market-in-the-ravenna-gorge"
+    },
+    {
+     "name": "Esslinger Mittelaltermarkt",
+     "country": "DE",
+     "lat": 48.7394,
+     "lng": 9.3044,
+     "start": "2026-11-24",
+     "dates_display": "Nov 24 – Dec 22",
+     "location": "Esslingen am Neckar",
+     "known": "Best medieval-themed market in Germany; live blacksmiths & mead; fire artists",
+     "distance": "~2h from KL",
+     "link": "https://www.esslingen-marketing.de"
+    },
+    {
+     "name": "Burg Hohenzollern Winterzauber",
+     "country": "DE",
+     "lat": 48.3231,
+     "lng": 8.9672,
+     "start": "2026-11-21",
+     "dates_display": "~Nov 21 – Jan 6",
+     "location": "Bisingen (near Hechingen)",
+     "known": "Most spectacular castle Christmas in Germany; fairy-tale setting; family-friendly",
+     "distance": "~2.5h from KL",
+     "link": "https://www.burg-hohenzollern.com"
+    },
+    {
+     "name": "Burgweihnacht Burg Satzvey",
+     "country": "DE",
+     "lat": 50.5669,
+     "lng": 6.7325,
+     "start": "2026-11-28",
+     "dates_display": "Advent weekends",
+     "location": "Mechernich (Eifel)",
+     "known": "Medieval nativity play; moated castle; jousting & medieval entertainment",
+     "distance": "~2h15 from KL",
+     "link": "https://www.burgsatzvey.de"
+    },
+    {
+     "name": "Reichsburg Cochem Burgweihnacht",
+     "country": "DE",
+     "lat": 50.1453,
+     "lng": 7.1667,
+     "start": "2026-11-28",
+     "dates_display": "Advent weekends",
+     "location": "Cochem",
+     "known": "Dramatic hilltop castle on the Moselle; live nativity; intimate & atmospheric",
+     "distance": "~1h15 from KL",
+     "link": "https://www.cochem.de"
+    },
+    {
+     "name": "Ludwigsburger Barock-Weihnachtsmarkt",
+     "country": "DE",
+     "lat": 48.895,
+     "lng": 9.1917,
+     "start": "2026-11-24",
+     "dates_display": "~Nov 24 – Dec 22",
+     "location": "Ludwigsburg",
+     "known": "Baroque architecture theme; enchanted forest; angel's alley; near Ludwigsburg Palace",
+     "distance": "~1h45 from KL",
+     "link": "https://www.ludwigsburg.de"
+    }
+   ]
+  },
+  {
+   "title": "France",
+   "markets": [
+    {
+     "name": "Christkindelsmärik Strasbourg",
+     "country": "FR",
+     "lat": 48.5734,
+     "lng": 7.7521,
+     "start": "2026-11-27",
+     "dates_display": "~Nov 27 – Dec 24",
+     "location": "Strasbourg",
+     "known": "Capital of Christmas (since 1570); best atmosphere in France; bredele & vin chaud; 12 locations",
+     "distance": "~1.5h from KL",
+     "link": "https://noel.strasbourg.eu"
+    },
+    {
+     "name": "Marchés de Noël de Colmar",
+     "country": "FR",
+     "lat": 48.0794,
+     "lng": 7.3558,
+     "start": "2026-11-21",
+     "dates_display": "Nov 23 – Dec 29",
+     "location": "Colmar",
+     "known": "Most photogenic in Alsace; \"Petite Venise\" canals; runs to Dec 29",
+     "distance": "~2h from KL",
+     "link": "https://www.noel-colmar.com"
+    },
+    {
+     "name": "Marché de Noël de Metz",
+     "country": "FR",
+     "lat": 49.1193,
+     "lng": 6.1757,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Dec 30",
+     "location": "Metz",
+     "known": "Gothic cathedral illuminations; 5 market squares; Ferris wheel; less crowded than Strasbourg",
+     "distance": "~1.5h from KL",
+     "link": "https://www.metz.fr/noel"
+    },
+    {
+     "name": "Marché de Noël des Tuileries",
+     "country": "FR",
+     "lat": 48.8634,
+     "lng": 2.3275,
+     "start": "2026-11-15",
+     "dates_display": "~Nov 15 – Jan 3",
+     "location": "Paris (Tuileries Garden)",
+     "known": "Most iconic Paris location; rides & ice rink; runs to January 3; open till midnight",
+     "distance": "~4h 🚄 from KL",
+     "link": "https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/46357-tuileries-christmas-market"
+    },
+    {
+     "name": "Marché de Noël de Lille",
+     "country": "FR",
+     "lat": 50.6365,
+     "lng": 3.0635,
+     "start": "2026-11-19",
+     "dates_display": "~Nov 19 – Dec 30",
+     "location": "Lille",
+     "known": "Flemish-French blend; great gaufres & carbonnade; Ferris wheel; lively student city",
+     "distance": "~4.5h from KL",
+     "link": "https://noel-a-lille.com"
+    },
+    {
+     "name": "Marché de Noël de Kaysersberg",
+     "country": "FR",
+     "lat": 48.1397,
+     "lng": 7.2636,
+     "start": "2026-11-27",
+     "dates_display": "Weekends late Nov – Dec",
+     "location": "Kaysersberg",
+     "known": "Most charming small village market in Alsace; artisan focus; castle ruins; bredele & vin chaud",
+     "distance": "~2h from KL",
+     "link": "https://www.kaysersberg.com/en/visit/an-authentic-christmas-in-the-kaysersberg-valley-in-alsace/"
+    }
+   ]
+  },
+  {
+   "title": "Belgium",
+   "markets": [
+    {
+     "name": "Plaisirs d'Hiver / Winter Wonders",
+     "country": "BE",
+     "lat": 50.8467,
+     "lng": 4.3525,
+     "start": "2026-11-27",
+     "dates_display": "Nov 27 – Jan 3",
+     "location": "Brussels",
+     "known": "Biggest in Belgium; Grand-Place light show; Belgian waffles, chocolate & beer; 200+ stalls",
+     "distance": "~3h15 from KL",
+     "link": "https://www.brussels.be/winter-wonders"
+    },
+    {
+     "name": "Brugge Wintergloed",
+     "country": "BE",
+     "lat": 51.2093,
+     "lng": 3.2247,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Feb 14",
+     "location": "Bruges",
+     "known": "Most romantic setting in Belgium; medieval canals; Winter Glow light trail; Belgian chocolate",
+     "distance": "~4h from KL",
+     "link": "https://www.visitbruges.be/en/winter-glow"
+    },
+    {
+     "name": "Gentse Winterfeesten",
+     "country": "BE",
+     "lat": 51.0536,
+     "lng": 3.7253,
+     "start": "2026-12-03",
+     "dates_display": "Dec 3 – Jan 3",
+     "location": "Ghent",
+     "known": "150+ chalets; medieval waterfront; less crowded than Bruges; excellent Belgian food & beer",
+     "distance": "~3h45 from KL",
+     "link": "https://visit.gent.be/en/calendar/christmas-market"
+    },
+    {
+     "name": "Village de Noël de Liège",
+     "country": "BE",
+     "lat": 50.6407,
+     "lng": 5.5712,
+     "start": "2026-11-27",
+     "dates_display": "Nov 27 – Dec 29",
+     "location": "Liège",
+     "known": "200 chalets (massive scale); authentic Liège waffles; boulets à la liégeoise; closest Belgian market",
+     "distance": "~2.5h from KL",
+     "link": "https://www.villagedenoel.be"
+    }
+   ]
+  },
+  {
+   "title": "Netherlands",
+   "markets": [
+    {
+     "name": "Magisch Maastricht",
+     "country": "NL",
+     "lat": 50.8488,
+     "lng": 5.6878,
+     "start": "2026-11-28",
+     "dates_display": "Nov 27 – Dec 27",
+     "location": "Maastricht",
+     "known": "André Rieu concerts; Ferris wheel; Burgundian food culture; 1M+ visitors; runs to Dec 31",
+     "distance": "~2h15 from KL",
+     "link": "https://www.visitmaastricht.com/en/doing/events/magical-maastricht"
+    },
+    {
+     "name": "Kerststad Valkenburg",
+     "country": "NL",
+     "lat": 50.8656,
+     "lng": 5.8319,
+     "start": "2026-11-13",
+     "dates_display": "Nov 13 – Jan 3",
+     "location": "Valkenburg",
+     "known": "Only cave Christmas market in Europe; 3 underground venues; longest season (mid-Nov to Jan)",
+     "distance": "~2h15 from KL",
+     "link": "https://www.christmastownvalkenburg.com"
+    },
+    {
+     "name": "Amsterdam Christmas Market",
+     "country": "NL",
+     "lat": 52.3579,
+     "lng": 4.8836,
+     "start": "2026-12-03",
+     "dates_display": "Dec 3 – Dec 27",
+     "location": "Amsterdam (Museumplein)",
+     "known": "Museumplein setting; combine with Amsterdam Light Festival; gezellig (cozy) Dutch vibes",
+     "distance": "~4.5h from KL",
+     "link": "https://winterfestivalamsterdam.com"
+    },
+    {
+     "name": "Royal Christmas Fair Den Haag",
+     "country": "NL",
+     "lat": 52.0842,
+     "lng": 4.3105,
+     "start": "2026-12-03",
+     "dates_display": "Dec 3 – Dec 23",
+     "location": "The Hague",
+     "known": "Most elegant/upscale market in NL; Lange Voorhout setting; free entry; high-quality crafts",
+     "distance": "~4.5h from KL",
+     "link": "https://royalchristmasfair.nl/en/"
+    }
+   ]
+  },
+  {
+   "title": "Luxembourg",
+   "markets": [
+    {
+     "name": "Winterlights Luxembourg City",
+     "country": "LU",
+     "lat": 49.61,
+     "lng": 6.1296,
+     "start": "2026-11-20",
+     "dates_display": "Nov 20 – Jan 3",
+     "location": "Luxembourg City",
+     "known": "Multi-site across the city; Luxembourgish products; dramatic fortress/gorge setting; runs to Jan 3",
+     "distance": "~1h45 from KL",
+     "link": "https://www.vdl.lu/en/visiting/leisure-and-recreation/festivals-fairs-and-events/winterlights-0"
+    }
+   ]
+  }
+ ],
+ "trips": [
+  {
+   "title": "Alsace Weekend",
+   "stops": [
+    {
+     "name": "Strasbourg — Christkindelsmärik",
+     "detail": "Capital of Christmas since 1570. 300+ chalets across 12 locations, Great Tree at Place Kléber."
+    },
+    {
+     "name": "Kaysersberg — Artisan Market",
+     "detail": "Albert Schweitzer's birthplace. Intimate weekend market beneath castle ruins. Bredele & vin chaud."
+    },
+    {
+     "name": "Colmar — Marchés de Noël",
+     "detail": "Six markets in a picture-perfect old town. \"Petite Venise\" canals lit up. Runs to Dec 29."
+    }
+   ],
+   "pills": [
+    "~1.5h to Strasbourg",
+    "2 days ideal",
+    "Nov – Dec"
+   ]
+  },
+  {
+   "title": "Cologne + Aachen Day Trip",
+   "stops": [
+    {
+     "name": "Aachen — Aachener Weihnachtsmarkt",
+     "detail": "100+ stalls around the UNESCO cathedral. Famous Aachener Printen cookies. Living nativity."
+    },
+    {
+     "name": "Cologne — 7 Christmas Markets",
+     "detail": "Cathedral market with 150 stalls beneath the Dom. Warm Kölsch beer. 7 distinct themed markets."
+    }
+   ],
+   "pills": [
+    "~2h to Aachen",
+    "1 long day or overnight",
+    "Nov – Dec 23"
+   ]
+  },
+  {
+   "title": "Pfalz Local Crawl",
+   "stops": [
+    {
+     "name": "Kaiserslautern — Stiftsplatz Market",
+     "detail": "Kaiserslautern’s market. Pfälzer Glühwein, Bratwurst, handmade crafts."
+    },
+    {
+     "name": "Bad Dürkheim — Wine Road Market",
+     "detail": "Spa-town charm. Exceptional Riesling Glühwein from local estates. ~30min from KL."
+    },
+    {
+     "name": "Neustadt — Wine Road Capital",
+     "detail": "Half-timbered Marktplatz setting. Heart of the Deutsche Weinstraße. ~35min from KL."
+    },
+    {
+     "name": "Speyer — Cathedral Market (to Jan 6!)",
+     "detail": "UNESCO cathedral along Maximilianstraße. One of few markets running through New Year's."
+    }
+   ],
+   "pills": [
+    "All under 45min",
+    "1 day or split weekends",
+    "Nov – Jan 6"
+   ]
+  },
+  {
+   "title": "Belgium Weekend",
+   "stops": [
+    {
+     "name": "Liège — Village de Noël",
+     "detail": "200 chalets. Closest Belgian market (~2.5h). Authentic Liège waffles & boulets."
+    },
+    {
+     "name": "Brussels — Plaisirs d'Hiver",
+     "detail": "Grand-Place light show. 200+ stalls, ice rink, Ferris wheel. Waffles, chocolate, beer."
+    },
+    {
+     "name": "Ghent — Gentse Winterfeesten",
+     "detail": "150+ chalets along medieval waterfront. Less touristy than Bruges. Runs to Jan 3."
+    },
+    {
+     "name": "Bruges — Wintergloed",
+     "detail": "Medieval canals + Winter Glow light trail. Most romantic market in Belgium. Runs to Feb 14."
+    }
+   ],
+   "pills": [
+    "~3h to Brussels",
+    "2–3 days",
+    "Nov 20 – Feb 14"
+   ]
+  }
+ ],
+ "open_past_24": [
+  [
+   "Feb 14:",
+   "Bruges — Wintergloed runs to mid-February in 2026/27"
+  ],
+  [
+   "Jan 10:",
+   "Speyer"
+  ],
+  [
+   "Jan 2–6:",
+   "Burg Hohenzollern · Koblenz · Brussels · Ghent · Valkenburg · Amsterdam (Winter Paradise) · Luxembourg City · Paris Tuileries"
+  ],
+  [
+   "Dec 27–30:",
+   "Colmar · Metz · Lille · Liège · Maastricht"
+  ]
+ ]
+}
